@@ -8,7 +8,7 @@ Como foi construído?
 Por que este projeto?
 Este projeto serviu como um excelente exercício prático para consolidar meus conhecimentos em HTML, CSS e JavaScript, além de demonstrar minha capacidade de criar interfaces web funcionais e intuitivas. Embora seja uma versão simplificada, ela ilustra os conceitos chave do desenvolvimento front-end.
 Conheça mais sobre meu trabalho e este projeto:
- * Link do Repositório GitHub: https://github.com/tatiane347/Site-google-minimalista.-/new/main?filename=README.md
+ * Link do Repositório GitHub: [https://github.com/tatiane347/Site-google-minimalista.-/new/main?filename=README.md](https://github.com/tatiane347/Site-google-minimalista.-)
  * Link do LinkedIn: https://www.linkedin.com/in/tatiane-nascimento-68b0622bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
  * Link do Projeto (para visualização): https://warm-tapioca-2bddb6.netlify.app     (ex: GitHub Pages, Netlify, Vercel)
 Ficarei muito feliz com seu feedback e se tiverem alguma dúvida ou sugestão, sintam-se à vontade para comentar no repositório! 😊
